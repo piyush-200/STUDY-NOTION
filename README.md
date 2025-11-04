@@ -170,13 +170,7 @@ The front end of StudyNotion is designed using Figma, a popular design tool that
 - *INSTRUCTOR MANAGEMENT:* Admin access to manage instructors, their account details, courses, and ratings.
 - *MISCELLANEOUS* Access to user and course management pages.
 
-## CONTRIBUTORS
-
-- Aritra Saha
-  - GITHUB: [Aritra Saha](https://github.com/Anonynmouscx)
-- Hindol Roy
-  - GITHUB: [Hindol Roy](https://github.com/hRJ06)
-
+ 
 ## OPEN SOURCE
 
 We welcome contributions to enhance StudyNotion. Please fork the repository, make your changes, and submit a pull request for review.
@@ -185,15 +179,12 @@ We welcome contributions to enhance StudyNotion. Please fork the repository, mak
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## CONTACT
-
-For any queries or suggestions, feel free to contact the authors:
-- Aritra Saha: [Email](mailto:aritrasoffice@gmail.com)
-- Hindol Roy: [Email](mailto:hindolroy.2306@gmail.com)
-
 ## ACKNOWLEDGEMENT
 
-We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop StudyNotion.#   S t u d y N o t i o n  
- #   S t u d y N o t i o n  
- #   S T U D Y - N O T I O N  
+We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop StudyNotion.#   S t u d y N o t i o n 
+ 
+ #   S t u d y N o t i o n 
+ 
+ #   S T U D Y - N O T I O N 
+ 
  
