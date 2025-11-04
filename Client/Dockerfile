@@ -1,4 +1,4 @@
-# server/Dockerfile
+# client/Dockerfile
 FROM node:20-alpine
 
 WORKDIR /app
@@ -8,5 +8,5 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 4000
-CMD ["npm", "run", "dev"]
+EXPOSE 3000
+CMD ["npm", "start"]
