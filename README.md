@@ -195,4 +195,5 @@ For any queries or suggestions, feel free to contact the authors:
 
 We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop StudyNotion.#   S t u d y N o t i o n  
  #   S t u d y N o t i o n  
+ #   S T U D Y - N O T I O N  
  
